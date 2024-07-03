@@ -5,6 +5,6 @@ Simple Calculator built using HTML, CSS, JS. It can be used for adding, subtract
 <img src="Calculator.jpg">
 
 ## Features
-- Keyboard can be used.
+- PC Keyboard can be used.
 - press C to clear.
 - Press backspace to delete.
